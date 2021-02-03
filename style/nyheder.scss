@@ -1,0 +1,80 @@
+@import "style.scss";
+
+#main{
+padding-top: 45px;
+padding-bottom: 45px;
+    #container{
+    max-width: $max;
+    width: 90vw;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+
+        .news{
+        background-color: $white;
+        margin-top: 45px;
+        margin-bottom: 45px;
+        box-shadow: $dropshadow;
+        border-radius: $rounded;
+
+            img{
+            width: 100%;
+            object-fit: cover;
+            margin-top: 0;
+            border-top-left-radius: $rounded;
+            border-top-right-radius: $rounded;
+            }
+
+            h3{
+            margin-top: 30px;
+            margin-bottom: 15px;
+            }
+
+            p{
+            margin: 10px;
+            margin-left: 0;
+            line-height: 1.5em;
+            white-space: pre-line;
+            }
+
+            .news_title{
+            text-transform: uppercase;
+            }
+
+            .news_time{
+            margin-top: 15px;
+            margin-bottom: 30px;
+            font-size: .8em;
+            font-weight: 200;
+            }
+
+    
+            .news_button{
+            display: flex;
+            width: fit-content;
+            margin-top: 15px;
+            text-decoration: none;
+            font-size: 1.1em;
+            color: $white;
+            padding: 10px;
+            transition: all .2s ease-in-out;
+
+            color: $white;
+            background-color: $ege;
+            padding: 13px 25px;
+
+                &:hover{
+                transform: scale(1.1);
+                }
+            }
+
+            .news_title, .news_desc, .news_time, .news_button{
+            margin-left: 20px;
+            margin-right: 20px;
+            }
+        }
+    }
+}

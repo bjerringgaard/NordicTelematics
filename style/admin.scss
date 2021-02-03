@@ -1,0 +1,109 @@
+@import "style.scss";
+
+.logud{
+  background-color: $bggrey;
+  color: $dark;
+  width: 100px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.main{
+  display: flex;
+  max-width: 1200px;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-top: 50px;
+
+  h1{
+    font-weight: 500;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-top: 50px;
+  }
+
+  h2{
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+
+  .news{
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: $white;
+    margin-bottom: 50px;
+
+    div{
+      display: flex;
+      flex-direction: column;
+
+      label{
+        margin-left: 5px;
+        margin-bottom: 5px;
+      }
+
+      .uploadbanner{
+        height: 50px;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        padding-top: 15px;
+        box-sizing: border-box;
+        width: 100%;
+        background-color: $bggrey;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      }
+
+      input[type=text]{
+        flex-grow: 1;
+        height: 50px;
+        border: 1px solid lightgrey;
+        border-radius: 10px;
+        box-shadow: none;
+
+        padding: 10px;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+      }
+
+      textarea{
+        flex-grow: 1;
+        height: 200px;
+        border: 1px solid lightgrey;
+        border-radius: 10px;
+        box-shadow: none;
+        margin-bottom: 20px;
+
+        padding: 10px;
+        box-sizing: border-box;
+      }
+
+      input[type=submit]{
+        flex-grow: 1;
+        height: 50px;
+        background-color: $ege;
+        color: $white;
+        border-radius: 10px;
+        box-shadow: none;
+        margin-top: -20px;
+        box-sizing: border-box;
+        outline: none;
+        border: none;
+        text-transform: uppercase;
+        width: 150px;
+      }
+    }
+    .linkbutton{
+      flex-direction: row;
+      margin-bottom: 20px;
+      input:nth-child(1){
+        margin-right: 10px;
+      }
+    }
+  }
+
+}

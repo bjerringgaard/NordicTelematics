@@ -1,0 +1,122 @@
+@import "style.scss";
+
+h1{
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: $ege;
+  margin: 0;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+#topbanner_solution{
+  background-color: $ege;
+      #container{
+      height: 280px;
+      }
+}
+
+.bgimg{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.odf{
+  background-image: url("../../assets/solutions/banner_fleetManage.jpg");
+}
+
+.location{
+  background-image: url("../../assets/solutions/banner_location.jpg");
+}
+
+.alarm{
+  background-image: url("../../assets/solutions/banner_alarm.jpg");
+}
+
+.message{
+  background-image: url("../../assets/solutions/banner_messages.jpg");
+}
+
+.diagnose{
+  background-image: url("../../assets/solutions/banner_diagnosis.jpg");
+}
+
+.rapport{
+  background-image: url("../../assets/solutions/banner_reports.jpg");
+}
+
+.fleet{
+  background-image: url("../../assets/solutions/banner_fleet.jpg");
+}
+
+.tacograph{
+  background-image: url("../../assets/solutions/banner_tacograph.jpg");
+}
+
+.notifications{
+  background-image: url("../../assets/solutions/banner_notify.jpg");
+}
+
+.orders{
+  background-image: url("../../assets/solutions/banner_orders.jpg");
+}
+
+.maintenance{
+  background-image: url("../../assets/solutions/banner_maintenance.jpg");
+}
+
+.configuration{
+  background-image: url("../../assets/solutions/banner_configuration.jpg");
+}
+
+.fuel{
+  background-image: url("../../assets/solutions/banner_fuel.jpg");
+}
+
+.app_odf{
+  background-image: url("../../assets/solutions/banner_app_odf.jpg");
+}
+
+.app_jtdo{
+  background-image: url("../../assets/solutions/banner_app_jtdo.jpg");
+}
+
+
+#main{
+  width: 50vw;
+  max-width: $max;
+  margin: 0 auto;
+  padding: 90px 0;
+
+
+  .buttons{
+    display: flex;
+    a{
+      div{
+        display: flex;
+        background-color: $ege;
+        width: fit-content;
+        align-items: center;
+        color: $white;
+        padding: 0px 25px;
+        border-radius: $roundedSmall;
+        margin-right: 15px;
+        margin-top: 20px;
+  
+        p{
+          margin-left: 10px;
+          margin-right: 10px;
+          text-transform: uppercase;
+        }
+  
+        img{
+          width: 32px;
+        }
+        i{
+          font-size: 24px;
+        }
+      }
+    }
+  }
+}

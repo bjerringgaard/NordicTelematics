@@ -1,0 +1,57 @@
+@import "style.scss";
+
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+
+    i{
+    font-size: 4em;
+    }
+
+    h1{
+    margin-bottom: 30px;
+    }
+
+    p{
+    margin-top: 0;
+    text-align: center;
+    }
+
+    a{
+    text-decoration: none;
+    color: $ege;
+    }
+
+    #button{
+    margin-top: 30px;
+    margin-bottom: 12px;
+    display: flex;
+
+        a{
+        z-index: 10;
+        margin-right: 15px;
+        text-decoration: none;
+        font-size: 1.1em;
+        color: $white;
+        transition: all .2s ease-in-out;
+
+        color: $white;
+        background-color: $k20;
+        padding: 15px 40px;
+        }
+
+        #kontaktbtn{
+        color: $white;
+        background-color: $ege;
+        transition: all .2s ease-in-out;
+        }
+
+        a:hover{
+        transform: scale(1.1);
+        }
+    }
+}
