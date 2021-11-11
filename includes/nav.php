@@ -2,10 +2,6 @@
     <div id="navigation">
         <div id="logo">
             <a href="/"> <svg version="1.1" id="Lag_1_kopi_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#ffffff;}
-	.st1{fill:none;}
-</style>
 <g>
 	<g>
 		<path class="st0" d="M595.92,402.79c-0.29,0.47-0.62,0.93-0.87,1.43c-0.21,0.42-0.5,0.61-0.95,0.7c-2.81,0.56-5.62,1.15-8.43,1.72

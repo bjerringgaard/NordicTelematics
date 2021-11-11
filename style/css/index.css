@@ -87,6 +87,13 @@ a {
           box-sizing: border-box;
 }
 
+#logo a svg .st0{
+    fill: #ffffff;
+}
+#logo a svg .st1{
+    fill: none;
+}
+
 nav {
   z-index: 100;
   display: -webkit-box;
