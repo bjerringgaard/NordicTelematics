@@ -655,8 +655,8 @@ h3 {
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
-  -ms-grid-columns: 1fr 1fr 1fr 1fr;
-      grid-template-columns: 1fr 1fr 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
   -ms-grid-rows: auto;
       grid-template-rows: auto;
   margin: 0px auto;
