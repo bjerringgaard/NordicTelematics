@@ -8,7 +8,7 @@
                     <li><a href="/coverage">DÆKNING</a></li>
                     <li><a href="/solutions">LØSNINGER</a></li>
                     <li><a href="/hardware">HARDWARE</a></li>
-                    <li><a href="/nyheder">NYHEDER</a></li>
+                    <!-- <li><a href="/nyheder">NYHEDER</a></li> -->
                     <li><a href="/omos">OM OS</a></li>
                     <li><a href="/kontakt">KONTAKT</a></li>
                     <div class="last">
@@ -23,7 +23,7 @@
                         <a href="/coverage">DÆKNING</a>
                         <a href="/solutions">LØSNINGER</a>
                         <a href="/hardware">HARDWARE</a>
-                        <a href="/nyheder">NYHEDER</a>
+                        <!-- <a href="/nyheder">NYHEDER</a> -->
                         <a href="/omos">OM OS</a>
                         <a href="/kontakt">KONTAKT</a>
                         <a href="https://optimaldrivingfleet.jaltest.com/Presentacion/Index.aspx">LOGIN</a>

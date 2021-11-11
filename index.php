@@ -28,7 +28,7 @@ require("controller/includer.php");
     </section>
 
     <section id="entry">
-        <div class="wrapper">
+        <!-- <div class="wrapper">
             <?php
             $sql = "SELECT * FROM news ORDER BY newsid DESC LIMIT 1";
             $result = mysqli_query($conn, $sql); 
@@ -39,13 +39,13 @@ require("controller/includer.php");
                     <img src="/uploads/news/<?php echo $news['newsimage']?>" alt="">
                 </div>
             </a> <?php } ?>
-          <!--  <a class="one" href="/produkter/cv"><div><img src="assets/branches/cv/CVNegative.png" alt=""></div></a>
+            <a class="one" href="/produkter/cv"><div><img src="assets/branches/cv/CVNegative.png" alt=""></div></a>
             <a class="two" href="/produkter/agv"><div><img src="assets/branches/agv/AGVNegative.png" alt=""></div></a>
             <a class="three" href="/produkter/ohw"><div><img src="assets/branches/ohw/OHWNegative.png" alt=""></div></a>
             <a class="four" href="/produkter/marine"><div><img src="assets/branches/marine/MarineNegative.png" alt=""></div></a>
             <a class="five" href="/produkter/jaltest"><div><img src="assets/branches/jaltestTools/JaltestToolsWhite.png" alt=""></div></a>
-            <a class="six" href="/produkter/telematics"><div><img src="assets/branches/JaltestTelematics/JaltestTelematicsWhite.png" alt=""></div></a> -->
-        </div>
+            <a class="six" href="/produkter/telematics"><div><img src="assets/branches/JaltestTelematics/JaltestTelematicsWhite.png" alt=""></div></a> 
+        </div> -->
     </section>
 
     <section id="info_container">
