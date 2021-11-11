@@ -23,19 +23,19 @@
 					<i class="far fa-life-ring"></i>
 					<h2>Support</h2>
 					<p>Vi er klar til at hjælpe <br> og svare hurtigst muligt</p>
-					<a href="mailto:pl@egeteknik.dk?subject=Support%3A">Få hjælp</a>
+					<a href="mailto:info@nordic-telematics.dk?subject=Support%3A">Få hjælp</a>
 				</div>
 				<div class="contact-container2">
 					<i class="fas fa-info"></i>
 					<h2>Information</h2>
 					<p>Mangler du information? <br> kan du skrive til os her</p>
-					<a href="mailto:pl@egeteknik.dk?subject=Information%3A">Få Information</a>
+					<a href="mailto:info@nordic-telematics.dk?subject=Information%3A">Få Information</a>
 				</div>
 				<div class="contact-container3">
 					<i class="fas fa-phone"></i>
 					<h2>Ring til os</h2> 
-					<p>Ønsker du at tale med os? <br> Ring på 22 22 84 30</p>
-					<a href="tel:+4522228430">Ring op</a>
+					<p>Ønsker du at tale med os? <br> Ring på 73 11 10 10 </p>
+					<a href="tel:+4573111010 ">Ring op</a>
 				</div>
 			</div>
 		</section>

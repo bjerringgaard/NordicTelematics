@@ -30,8 +30,7 @@
 		<section id="people">
 			<div id="people-grid">
         <a target="_blank" href="https://www.linkedin.com/in/poul-lyster-b3ab747a/"><div class="people-container1"><h2>Poul Lyster</h2><p>Ejer</p></div></a>
-        <a target="_blank" href="#"><div class="people-container2"><h2>Michael Jørgensen</h2><p>Ejer</p></div></a>
-				<a target="_blank" href="#"><div class="people-container3"><h2>Mads Christensen</h2><p>Ejer</p></div></a>
+        <a target="_blank" href="#"><div class="people-container2"><h2>Ole Pilgård</h2><p>Salgs chef</p></div></a>
 				<a target="_blank" href="ttps://www.linkedin.com/in/marcusbjerringgaard/"><div class="people-container4"><h2>Marcus Bjerringgaard</h2><p>Web & Grafisk Designer</p></div></a>
 			</div>
 		</section>

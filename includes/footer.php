@@ -497,10 +497,10 @@
                 <h3>Firmaet</h3>
                 <ul>
                     <li><a href="">Egeteknik ApS</a></li>
-                    <li><a href="https://datacvr.virk.dk/data/visenhed?enhedstype=virksomhed&id=39094088&soeg=39094088&language=da">CVR: 39094088</a></li>
+                    <li><a href="https://datacvr.virk.dk/data/visenhed?enhedstype=virksomhed&id=37490695&soeg=37490695&language=da">CVR: 37490695</a></li>
                     <li><a href="https://www.google.com/maps/place/Egevej+2,+6870+%C3%98lgod/@55.8108461,8.6073934,17z/data=!3m1!4b1!4m5!3m4!1s0x464b03fdaf313435:0x17c7af38ab1823a!8m2!3d55.8108461!4d8.6095821">Egevej 2, 6870 Ølgod</a></li>
-                    <li><a href="tel:+4522228430">+45 22 22 84 30</a></li>
-                    <li><a href="mailto:pl@egeteknik.dk">pl@egeteknik.dk</a></li>
+                    <li><a href="tel:+4573111010">+45 73 11 10 10</a></li>
+                    <li><a href="mailto:info@nordic-telematics.dk">info@nordic-telematics.dk</a></li>
                 </ul>
             </div>
             <div class="contact">
