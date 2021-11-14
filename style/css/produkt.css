@@ -69,15 +69,22 @@ a {
   text-decoration: none;
 }
 
-#logo a img {
-  margin-top: 15px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  height: calc(75px - 30px);
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
+#logo a svg {
+    margin-top: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 75px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  #logo a svg .st0{
+      fill: #ffffff;
+  }
+  #logo a svg .st1{
+      fill: none;
+  }
 
 nav {
   z-index: 100;
